@@ -1,3 +1,25 @@
+---
+### 📞 **Connect**
+📧 sgh115@naver.com , sonsanghee3@gmail.com
+
+---
+
+### 📫 **Job**
+👨‍💻 BacekEnd Developer
+
+---
+
+### 💻 **Language**
+<div >
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white" />
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
+</div>
+
+---
+
 ### 💼 **Side Projects**
 #### Sprout Education Web(7명)
 - **기간**: 2024.09 - 2024.11
